@@ -75,6 +75,9 @@ body {
       text-align: center;
   }
 
+  .elien {
+	font-size: 100px;
+  }
   .contact-info__header {
       color: var(--primary-text-color);
       margin-bottom: 15px;
